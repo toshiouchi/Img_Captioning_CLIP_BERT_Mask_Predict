@@ -92,7 +92,7 @@ val    1.11  37.9  75.1
 ```
 ## Generated captions
 
-Generated captions at epoch 10.
+Generated captions for test data at epoch 10.
 
 ```
 hypo: in this image we can see some strawberries the table surface.
